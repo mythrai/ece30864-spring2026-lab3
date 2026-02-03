@@ -29,3 +29,10 @@ Sprint Review
 - Discuss completed work
 - Identify improvements that can be made
 
+
+Question 4:
+
+Epic: as a container to organize stories, bugs, and tasks, has many sprints
+Story: specific functionality or feature from user's perspective, finished single sprint
+Bug: For reporting defects, errors, or issues that ruin functionality 
+Task: technical piece of work that needs to be done, doesn’t directly show user-facing item
