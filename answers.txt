@@ -1,1 +1,12 @@
+Question 1:
+
+Pros:
+- Very flexible and adaptable to new changes 
+- Increased customer satisfaction
+
+ 
+Cons:
+- Teams could have inconsistent developmental methods because there is a lack of documentation
+- Can be difficult to learn and manage, so need skilled team
+
 
