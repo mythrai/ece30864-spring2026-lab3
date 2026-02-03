@@ -10,3 +10,6 @@ Cons:
 - Can be difficult to learn and manage, so need skilled team
 
 
+Question 2:
+
+The Scrum Master does team collaboration, resolves role conflicts, and helps with tools and techniques, whereas the Product owner communicates the vision, maintains product backlog, and manages stakeholders.
