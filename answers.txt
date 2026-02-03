@@ -13,3 +13,19 @@ Cons:
 Question 2:
 
 The Scrum Master does team collaboration, resolves role conflicts, and helps with tools and techniques, whereas the Product owner communicates the vision, maintains product backlog, and manages stakeholders.
+
+
+Question 3:
+
+Spring Planning
+- Discusses goals
+- Defines sprint backlog
+
+Daily Scrum
+- Adjusting plans
+- Developers can sync methods/ideas
+
+Sprint Review
+- Discuss completed work
+- Identify improvements that can be made
+
